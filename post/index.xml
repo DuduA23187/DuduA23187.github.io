@@ -17,15 +17,6 @@
 </description>
         </item>
         <item>
-        <title>Myfirstchapter</title>
-        <link>https://DuduA23187.github.io/p/myfirstchapter/</link>
-        <pubDate>Wed, 28 May 2025 13:00:53 +0800</pubDate>
-        
-        <guid>https://DuduA23187.github.io/p/myfirstchapter/</guid>
-        <description>&lt;p&gt;hello&lt;/p&gt;
-</description>
-        </item>
-        <item>
         <title>Chinese Test</title>
         <link>https://DuduA23187.github.io/p/test-chinese/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
@@ -111,6 +102,16 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;相册语法来自 &lt;a class=&#34;link&#34; href=&#34;https://typlog.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Typlog&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>image test upload</title>
+        <link>https://DuduA23187.github.io/p/image-test-upload/</link>
+        <pubDate>Mon, 02 Jan 2006 00:00:00 +0000</pubDate>
+        
+        <guid>https://DuduA23187.github.io/p/image-test-upload/</guid>
+        <description>&lt;img src="https://DuduA23187.github.io/p/image-test-upload/EMthenight.png" alt="Featured image of post image test upload" /&gt;&lt;h1 id=&#34;正文测试&#34;&gt;正文测试
+&lt;/h1&gt;&lt;p&gt;我们什么时候去看电影？&lt;/p&gt;
 </description>
         </item>
         
